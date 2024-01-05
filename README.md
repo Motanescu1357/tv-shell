@@ -1,4 +1,4 @@
-Install tvs by downloading the tvs-0.1.tar.gz and running pip install tvs and press enter.
+Install tvs by  running pip install https://github.com/Motanescu1357/tv-shell/raw/main/tvs-0.1.tar.gz and press enter.
 It can be used like this:
 
 from tvs import tvshell
