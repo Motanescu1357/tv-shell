@@ -1,0 +1,4 @@
+#start_py
+print("a");
+print("a2")
+#end_py
