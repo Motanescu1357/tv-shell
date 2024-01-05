@@ -6,7 +6,7 @@ tvshell(some str or None for default)
 
 To run tvs just use in python shell "from tvs import tvshell; tvshell(None)".
 Please use the test.tvspackage as a tutorial for packaging.
-Aftr runing tvs type help for commands.
+After runing tvs type help for commands.
 Type tvs_py to enter python mode.
 Type tvs_py_quit to exit python mode.
 Read the source code.
